@@ -12,8 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=Albert-Tuan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Albert-Tuan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-"Security is a process, not a product."
-
-— Bruce Schneier
+*"Security is a process, not a product."*
+ 
+ — **Bruce Schneier**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
