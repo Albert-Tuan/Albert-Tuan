@@ -1,5 +1,12 @@
-# 💫 About Me:
-- 🔭 **I’m currently working on**: <br>  - Building and optimizing a Web Application Firewall (WAF) using ModSecurity & OWASP CRS.<br>  - Executing a comprehensive **SOC Analyst / Blue Team Roadmap (2026–2027)** focusing on SOC L1 Triage, SIEM (Wazuh/Elastic), Detection Engineering, and Incident Response.<br>- 👯 **I’m looking to collaborate on**: <br>  - Open-source Security tools, WAF development, Sigma Rule creation, and Blue Team / DFIR projects.<br>- 🤝 **I’m looking for help with**: <br>  - Advanced Reverse Engineering, x64 Malware Analysis, and Complex Purple-Team / Threat Hunting simulations.<br>- 🌱 **I’m currently learning**: <br>  - **Blue Team & SOC**: Network Telemetry/Wireshark, SIEM Queries (KQL/EQL/SPL), Incident Response, Detection Engineering (Sigma Rules), and DFIR.<br>  - **Core Skills**: Malware Analysis, Reverse Engineering, C/C++, Java, Python automation, and Japanese (N5).<br>- 💬 **Ask me about**: <br>  - Information Security, ModSecurity/WAF, SOC L1 Triage & Playbooks, SIEM Ingestion, C/C++/Python, or Badminton.<br>- ⚡ **Fun fact**: <br>  - I hit the badminton court almost every day at 4:00 PM (except Mondays) to clear my head and reset energy!
+# About Me:
+
+- Currently focusing on **Malware Analysis, Reverse Engineering, and Web Application Security**, with hands-on work using **ModSecurity & OWASP CRS**.
+- Learning more about **x86/x64 Assembly, Windows internals, static & dynamic analysis, malware behavior, and Blue Team fundamentals**.
+- Working with tools such as **IDA Free, Ghidra, x64dbg, WinDbg, Procmon, Wireshark, VMware, Git/GitHub**, along with **C/C++, Python, Java, Bash, and Linux**.
+- My current goal is to prepare for **Malware Analyst, Reverse Engineering, or Security Analyst internships**.
+- Interested in collaborating on **malware research, CTF Reverse Engineering, security tools, WAF, and defensive security projects**.
+- Feel free to ask me about **Malware Analysis, Reverse Engineering, ModSecurity/WAF, C/C++, Python, or cybersecurity labs**.
+- Outside of security, I enjoy playing **badminton** to recharge.
 
 
 ## 🌐 Socials:
